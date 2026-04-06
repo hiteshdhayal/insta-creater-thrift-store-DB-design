@@ -1,6 +1,8 @@
 # Instagram Thrift & Handmade Store – Database Design (ER Diagram)
 
 ## blog - https://x.com/hiteshdhayall/status/2041214809472188441?s=20
+## excalidraw - https://excalidraw.com/#json=E3MrXLe68xNs6zcg4cuCB,aO7sMJ6ej9Eni0bBKIc40Q
+
 
 This project contains the **Entity Relationship (ER) diagram** for a small Instagram-based store that sells **thrifted fashion items and handmade products**.
 
